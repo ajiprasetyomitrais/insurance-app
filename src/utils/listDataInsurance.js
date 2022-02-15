@@ -5,7 +5,7 @@ export const data = [
       description:
         "Traditional Life Insurance Protection until the age of 99 years with premium payment options as a valuable inheritance for loved ones.",
       type: "syariah",
-      price: "Rp.300.000 - Rp.1.000.000"
+      price: 300000
     },
     {
       id: "2",
@@ -13,7 +13,7 @@ export const data = [
       description:
         "Traditional Life Insurance Protection until the age of 99 years with premium payment options as a valuable inheritance for loved ones.",
       type: "non syariah",
-      price: "Rp.300.000 - Rp.500.000"
+      price: 500000
     },
     {
       id: "3",
@@ -21,7 +21,7 @@ export const data = [
       description:
         "Traditional Life Insurance Protection until the age of 99 years with premium payment options as a valuable inheritance for loved ones.",
       type: "syariah",
-      price: "Rp.300.000 - Rp.1.000.000"
+      price: 200000
     },
     {
       id: "4",
@@ -29,7 +29,7 @@ export const data = [
       description:
         "Traditional Life Insurance Protection until the age of 99 years with premium payment options as a valuable inheritance for loved ones.",
       type: "non syariah",
-      price: "Rp.300.000 - Rp.1.000.000"
+      price: 50000
     },
     {
       id: "5",
@@ -37,7 +37,7 @@ export const data = [
       description:
         "Traditional Life Insurance Protection until the age of 99 years with premium payment options as a valuable inheritance for loved ones.",
       type: "syariah",
-      price: "Rp.300.000 - Rp.1.000.000"
+      price: 1000000
     },
     {
       id: "6",
@@ -45,7 +45,7 @@ export const data = [
       description:
         "Traditional Life Insurance Protection until the age of 99 years with premium payment options as a valuable inheritance for loved ones.",
       type: "non syariah",
-      price: "Rp.300.000 - Rp.1.000.000"
+      price: 50000
     },
     {
       id: "7",
@@ -53,7 +53,7 @@ export const data = [
       description:
         "Traditional Life Insurance Protection until the age of 99 years with premium payment options as a valuable inheritance for loved ones.",
       type: "syariah",
-      price: "Rp.300.000 - Rp.1.000.000"
+      price: 80000
     },
     {
       id: "8",
@@ -61,6 +61,6 @@ export const data = [
       description:
         "Traditional Life Insurance Protection until the age of 99 years with premium payment options as a valuable inheritance for loved ones.",
       type: "non syariah",
-      price: "Rp.300.000 - Rp.1.000.000"
+      price: 400000
     },
   ];
